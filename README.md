@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Am pus aici un mic comentariu pt a verifica daca functioneaza git push
